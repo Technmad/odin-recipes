@@ -1,2 +1,2 @@
 # odin-recipes
-html project
+A recipe guide for cooking tasty food!
